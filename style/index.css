@@ -1,0 +1,40 @@
+
+
+body{
+    background-color: rgba(222, 237, 159, 0.8);
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#intro{
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-weight: 500; 
+}
+.former{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;    
+}
+table{
+    margin: 0 auto;
+    text-align: center;
+    border: solid black 1px;
+    box-shadow: 5px 5px 5px 5px grey;
+   }
+table, td{
+    border: solid black 2px;
+    border-collapse: collapse;
+}
+
+.tag{
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.desc{
+    font-family:cursive;
+}
